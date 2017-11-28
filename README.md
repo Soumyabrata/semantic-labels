@@ -9,7 +9,7 @@ Please cite the above paper if you intend to use whole/part of the code. This co
 The codes are written in MATLAB.
 
 ### Dataset
-The dataset used in this manuscript is HYTA dataset from 
+The dataset used in this manuscript is from HYTA dataset 
 > Li et. al, A Hybrid Thresholding Algorithm for Cloud Detection on Ground-Based Color Images, Journal of Atmospheric and Oceanic Technology, 2011. 
 
 Please contact the respective authors for the dataset.
